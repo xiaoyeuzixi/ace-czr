@@ -1,0 +1,11 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# 运行时日志
+logs/
+*.log
+
+# 启动器补丁临时文件
+*.bak
+*.tmp
